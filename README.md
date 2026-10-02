@@ -43,6 +43,7 @@ Considero que __HUDU__ lo que la hace destacar como mi cafetería favorita es el
 | Croissant con crema de pistacho | 6,50 € | ***** |
 | Tarta de queso | 4,00 € | ***** |
 
-
+for num_actual in range (1,6): 
+    print (num_actual, end="")
 
 
